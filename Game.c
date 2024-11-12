@@ -577,5 +577,3 @@ int main() {
  glutKeyboardFunc(NormalKey);
  glutMainLoop();
 }
-Hare and Tortoise CG project source code.txt
-Page 6 of 7
